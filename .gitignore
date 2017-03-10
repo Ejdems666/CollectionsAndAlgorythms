@@ -1,0 +1,20 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+CollectionsAndAlgorythms.iml
+cph-ab270-collections&algs.zip
+src/main/resources/
+target/
+
+### Maven template
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Exclude maven wrapper
+!/.mvn/wrapper/maven-wrapper.jar
